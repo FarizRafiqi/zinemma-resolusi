@@ -3,3 +3,4 @@ Rencana konten Zinemma
 - membuat dashboard yang lebih interaktif
 - selalu update filmnya
 - isi kontennya harus jelas, dan semenarik mungkin
+- coba pakai plugin javascript
