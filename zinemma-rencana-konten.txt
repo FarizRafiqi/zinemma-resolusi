@@ -1,3 +1,4 @@
 Rencana konten Zinemma
 - mengintegrasikan web dengan API
 - membuat dashboard yang lebih interaktif
+- selalu update filmnya
