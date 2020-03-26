@@ -2,3 +2,5 @@ Rencana konten Zinemma
 - mengintegrasikan web dengan API
 - membuat dashboard yang lebih interaktif
 - pakai plugin datatables dan chartjs
+- isi kontennya harus jelas, dan semenarik mungkin
+- coba pakai plugin javascript
